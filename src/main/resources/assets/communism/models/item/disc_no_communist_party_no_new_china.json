@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "communism:item/disc_no_communist_party_no_new_china"
+  }
+}

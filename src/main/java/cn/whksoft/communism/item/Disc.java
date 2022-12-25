@@ -58,6 +58,26 @@ public class Disc {
             new MusicDiscItem(7, CommunismDiscSounds.KATYUSHA,
                     new FabricItemSettings().group(CommunismItemGroup.COMMUNISM_GROUP).maxCount(1).rarity(Rarity.RARE), 137));
 
+    public static Item DISC_HAPPY_WIND = registerItem("disc_happy_wind",
+            new MusicDiscItem(7, CommunismDiscSounds.HAPPY_WIND,
+                    new FabricItemSettings().group(CommunismItemGroup.COMMUNISM_GROUP).maxCount(1).rarity(Rarity.RARE), 152));
+
+    public static Item DISC_YOUNG_PIONEERS_DAY = registerItem("disc_young_pioneers_day",
+            new MusicDiscItem(7, CommunismDiscSounds.YOUNG_PIONEERS_DAY,
+                    new FabricItemSettings().group(CommunismItemGroup.COMMUNISM_GROUP).maxCount(1).rarity(Rarity.RARE), 151));
+
+    public static Item DISC_NO_COMMUNIST_PARTY_NO_NEW_CHINA = registerItem("disc_no_communist_party_no_new_china",
+            new MusicDiscItem(7, CommunismDiscSounds.NO_COMMUNIST_PARTY_NO_NEW_CHINA,
+                    new FabricItemSettings().group(CommunismItemGroup.COMMUNISM_GROUP).maxCount(1).rarity(Rarity.RARE), 114));
+
+    public static Item DISC_VARCHAVIANKA = registerItem("disc_varchavianka",
+            new MusicDiscItem(7, CommunismDiscSounds.VARCHAVIANKA,
+                    new FabricItemSettings().group(CommunismItemGroup.COMMUNISM_GROUP).maxCount(1).rarity(Rarity.RARE), 222));
+
+    public static Item DISC_PUTINS_BONER = registerItem("disc_putins_boner",
+            new MusicDiscItem(15, CommunismDiscSounds.PUTINS_BONER,
+                    new FabricItemSettings().group(CommunismItemGroup.COMMUNISM_GROUP).maxCount(1).rarity(Rarity.EPIC),238));
+
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registry.ITEM, new Identifier(MOD_ID, name), item);
     }

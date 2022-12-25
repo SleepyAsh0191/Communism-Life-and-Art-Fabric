@@ -39,5 +39,15 @@
   "item.communism.ccp_banner_pattern.desc": "锤子镰刀",
   "block.minecraft.banner.communism.ccp.yellow": "黄色锤子镰刀图标",
   "block.minecraft.banner.communism.ccp.red": "红色锤子镰刀图标",
-  "block.minecraft.banner.communism.ccp.white": "白色锤子镰刀图标"
+  "block.minecraft.banner.communism.ccp.white": "白色锤子镰刀图标",
+  "item.communism.disc_happy_wind": "音乐唱片",
+  "item.communism.disc_happy_wind.desc": "《快乐的风》",
+  "item.communism.disc_young_pioneers_day": "音乐唱片",
+  "item.communism.disc_young_pioneers_day.desc": "《少先队节》",
+  "item.communism.disc_no_communist_party_no_new_china": "音乐唱片",
+  "item.communism.disc_no_communist_party_no_new_china.desc": "《没有共产党，就没有新中国》",
+  "item.communism.disc_varchavianka": "音乐唱片",
+  "item.communism.disc_varchavianka.desc": "《华沙曲》",
+  "item.communism.disc_putins_boner": "音乐唱片",
+  "item.communism.disc_putins_boner.desc": "普京勃♂起"
 }

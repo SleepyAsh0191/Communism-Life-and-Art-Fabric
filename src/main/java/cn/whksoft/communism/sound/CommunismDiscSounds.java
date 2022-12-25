@@ -32,7 +32,16 @@ public class CommunismDiscSounds {
     public static SoundEvent TROIKA_GALOP = registerSoundEvent("troika_galop");
     //喀秋莎
     public static SoundEvent KATYUSHA = registerSoundEvent("katyusha");
+    //快乐的风
+    public static SoundEvent HAPPY_WIND = registerSoundEvent("happy_wind");
+    //少先队节
+    public static SoundEvent YOUNG_PIONEERS_DAY = registerSoundEvent("young_pioneers_day");
+    //没有共产党，就没有新中国
+    public static SoundEvent NO_COMMUNIST_PARTY_NO_NEW_CHINA = registerSoundEvent("no_communist_party_no_new_china");
+    //华沙曲
+    public static SoundEvent VARCHAVIANKA = registerSoundEvent("varchavianka");
 
+    public static SoundEvent PUTINS_BONER = registerSoundEvent("putins_boner");
 
 
     //冲锋号

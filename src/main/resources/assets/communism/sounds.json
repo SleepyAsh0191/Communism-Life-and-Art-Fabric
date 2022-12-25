@@ -79,6 +79,46 @@
       }
     ]
   },
+  "happy_wind": {
+    "sounds": [
+      {
+        "name": "communism:happy_wind",
+        "stream": true
+      }
+    ]
+  },
+  "young_pioneers_day": {
+    "sounds": [
+      {
+        "name": "communism:young_pioneers_day",
+        "stream": true
+      }
+    ]
+  },
+  "no_communist_party_no_new_china": {
+    "sounds": [
+      {
+        "name": "communism:no_communist_party_no_new_china",
+        "stream": true
+      }
+    ]
+  },
+  "varchavianka": {
+    "sounds": [
+      {
+        "name": "communism:varchavianka",
+        "stream": true
+      }
+    ]
+  },
+  "putins_boner": {
+    "sounds": [
+      {
+        "name": "communism:putins_boner",
+        "stream": true
+      }
+    ]
+  },
   "charging_horn": {
     "sounds": [
       {
