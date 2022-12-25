@@ -1,0 +1,16 @@
+{
+  "group": "caviar",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:cod"
+    },
+    {
+      "item": "communism:empty_tin"
+    }
+  ],
+  "result": {
+    "item": "communism:tinned_caviar",
+    "count": 1
+  }
+}

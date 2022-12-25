@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "communism:item/ccp_banner_pattern"
+  }
+}

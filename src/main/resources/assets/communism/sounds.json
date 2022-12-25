@@ -1,0 +1,90 @@
+{
+  "international_song": {
+    "sounds": [
+      {
+        "name": "communism:international_song",
+        "stream": true
+      }
+    ]
+  },
+  "international_song_chinese": {
+    "sounds": [
+      {
+        "name": "communism:international_song_chinese",
+        "stream": true
+      }
+    ]
+  },
+  "ussr_national_anthem": {
+    "sounds": [
+      {
+        "name": "communism:ussr_national_anthem",
+        "stream": true
+      }
+    ]
+  },
+  "we_are_your_firm_successors": {
+    "sounds": [
+      {
+        "name": "communism:we_are_your_firm_successors",
+        "stream": true
+      }
+    ]
+  },
+  "we_are_tomorrows_soviet_people": {
+    "sounds": [
+      {
+        "name": "communism:we_are_tomorrows_soviet_people",
+        "stream": true
+      }
+    ]
+  },
+  "our_triumphant_satellite": {
+    "sounds": [
+      {
+        "name": "communism:our_triumphant_satellite",
+        "stream": true
+      }
+    ]
+  },
+  "mao_zedong_thought_shines_forever": {
+    "sounds": [
+      {
+        "name": "communism:mao_zedong_thought_shines_forever",
+        "stream": true
+      }
+    ]
+  },
+  "an_evening_outside_moscow": {
+    "sounds": [
+      {
+        "name": "communism:an_evening_outside_moscow",
+        "stream": true
+      }
+    ]
+  },
+  "troika_galop": {
+    "sounds": [
+      {
+        "name": "communism:troika_galop",
+        "stream": true
+      }
+    ]
+  },
+  "katyusha": {
+    "sounds": [
+      {
+        "name": "communism:katyusha",
+        "stream": true
+      }
+    ]
+  },
+  "charging_horn": {
+    "sounds": [
+      {
+        "name": "communism:charging_horn",
+        "stream": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "group": "communism",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:milk_bucket"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:milk_bucket"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:milk_bucket"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "communism:beverage_can"
+    },
+    {
+      "item": "communism:beverage_can"
+    },
+    {
+      "item": "communism:beverage_can"
+    }
+  ],
+  "result": {
+    "item": "communism:condensed_milk",
+    "count": 3
+  }
+}

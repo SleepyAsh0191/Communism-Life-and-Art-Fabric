@@ -1,0 +1,10 @@
+{
+  "group": "sausage",
+  "type": "minecraft:campfire_cooking",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "communism:sausage"
+  },
+  "result": "communism:cooked_sausage"
+}
